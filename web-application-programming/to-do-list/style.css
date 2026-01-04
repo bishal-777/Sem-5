@@ -1,0 +1,14 @@
+.completed {
+    text-decoration: line-through;
+    color: red;
+}
+
+#task-list li {
+    margin: 8px 0;
+    list-style: none;
+}
+
+button {
+    margin-left: 5px;
+    cursor: pointer;
+}
